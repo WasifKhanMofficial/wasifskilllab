@@ -1,0 +1,44 @@
+body {
+    background-color: #add8e6;b
+    font-family: Arial;
+    padding: 20px;
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+div {
+    background-color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+h1
+ {
+    font-weight: bold;
+}
+h3 
+{
+    font-style: italic;
+}
+input 
+{
+    padding: 20px;
+    background-color: #f0f0f0;
+    font-size: 10px;
+}
+button
+{
+    padding: 10px;
+    background-color: #87cefa;
+    color: black;
+    font-size: 10px;
+}
+ul 
+{
+    padding: 5px;
+}
+li
+ {
+    padding: 10px;
+    background-color: #55ffe2;
+    font-size: 10px;
+}
